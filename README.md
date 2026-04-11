@@ -40,7 +40,17 @@ Nikoles Tobin
 Electrical Engineering student interested in automation, systems, and technical problem-solving.
 
 
+## Preview
 
+<img src="assets/screenshots/main-window.png" alt="Cipher Toolkit main window" width="750">
+
+## Screenshots
+
+### Caesar Cipher Example
+<img src="assets/screenshots/caesar-example.png" alt="Caesar cipher example" width="750">
+
+### Vigenère Cipher Example
+<img src="assets/screenshots/vigenere-example.png" alt="Vigenere cipher example" width="750">
 ## Features
 
 - GUI-based desktop application built with Python and Tkinter
